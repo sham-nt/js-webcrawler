@@ -1,0 +1,26 @@
+{
+  "name": "js-webcrawler",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sham-nt/js-webcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sham-nt/js-webcrawler/issues"
+  },
+  "homepage": "https://github.com/sham-nt/js-webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0"
+  }
+}

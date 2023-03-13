@@ -3,6 +3,6 @@
 
 A CLI based Web crawler to track the internal linking structure of a Website
 
-                using NodeJs anf Jest
+                using NodeJs and Jest
 
 ---
